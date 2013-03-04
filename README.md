@@ -1,4 +1,4 @@
-404b Bookmarklet
+404b.js
 ================
 404b is a bookmarklet that attempts to request all links on a given page to verify that they load correctly. It uses `document.links` to obtain the list of links on a page and either issues a `XMLHttpRequest` for same domain links or creates a `link` element to verify that the link works. This bookmarklet is  tested on _Chrome_ only right now.
 
