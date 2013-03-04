@@ -1,6 +1,6 @@
 {
 	"name": "404b",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Bookmarklet that scans document.links for URLs that fail to load on a given page",
 	"homepage": "http://www.github.com/emecell/404b.js",
 	"keywords": ["404b", "bookmarklet"],
