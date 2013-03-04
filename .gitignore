@@ -1,0 +1,20 @@
+# Basic .gitiignore for a node project
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+node_modules
+npm-debug.log
+
+# Ignore any osx things
+.DS_STORE
