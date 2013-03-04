@@ -2,7 +2,7 @@
 	"name": "404b",
 	"version": "0.0.1",
 	"description": "Bookmarklet that scans document.links for URLs that fail to load on a given page",
-	"homepage": "http://www.github.com/rlaw/404b.js",
+	"homepage": "http://www.github.com/emecell/404b.js",
 	"keywords": ["404b", "bookmarklet"],
 	"author": "Robert Law <rcl@emecell.com>",
 	"engines": {
@@ -10,11 +10,11 @@
 		"npm": "~1.1"
 	},
 	"bugs": {
-		"url" : "https://www.github.com/rlaw/404b.js/issues"
+		"url" : "https://www.github.com/emecell/404b.js/issues"
 	},
 	"repository": {
 		"type" : "git",
-		"url" : "https://www.github.com/rlaw/404b.js.git"
+		"url" : "https://www.github.com/emecell/404b.js.git"
 	},
 	"devDependencies": {
 		"grunt": "~0.4.0",

@@ -7,7 +7,7 @@ Installation
 ------------
 Create a new bookmark (cmd+d or ctrl+d) and replace the URL with the following code:
 
-	javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://raw.github.com/rlaw/404b.js/master/dist/404b.min.js?v='+parseInt(Math.random()*99999999);document.body.appendChild(s);})();
+	javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://raw.github.com/emecell/404b.js/master/dist/404b.min.js?v='+parseInt(Math.random()*99999999);document.body.appendChild(s);})();
 
 
 Acknowledgments
@@ -17,7 +17,7 @@ Initial design is based off of the [WTFramework](http://oskarkrawczyk.github.com
 
 Authors
 -------
-+ [Robert Law](http://www.github.com/rlaw)
++ [Robert Law](http://www.github.com/emecell)
 
 
 Copyright and License
